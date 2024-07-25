@@ -45,7 +45,7 @@
     "singleQuote": true
   },
   "dependencies": {
-    "tinacms": "^1.6.7",
+    "tinacms": "^2.1.0",
     "@tinacms/cli": "^1.5.49"
   }
 }
